@@ -5,6 +5,7 @@ This repo contains a running code of what is found in Ejb Tutorials from tutoria
 
 Java 8,
 Postgresql,
-Jboss application server 5 and above.
+Jboss application server 5 and above.  
+See pdf report for details
 
 
